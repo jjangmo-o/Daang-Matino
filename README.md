@@ -23,8 +23,8 @@ DaangMatino is a road network maintenance planning system that implements optimi
 ## Installation & Setup
 1. **Clone the repository**
 ```terminal
-git clone https://github.com/polopi08/DaangMatino.git
-cd daangmatino
+git clone https://github.com/jjangmo-o/Daang-Matino.git
+cd DaangMatino
 ```
 
 2. **Install dependencies**
